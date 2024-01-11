@@ -12,7 +12,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Tanulj jó dolgokat! :-)
+          Tanulj jó dolgokat!
         </a>
       </header>
     </div>
